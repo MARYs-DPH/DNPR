@@ -1,0 +1,13 @@
+* installing *source* package 'DNPR' ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Advarsel i file.rename(instdir, final_instdir) :
+  cannot rename file 'C:/Users/abuc0046/ONEDRI~1/GitHub/DNPR~1.RCH/00LOCK-DNPR/00new/DNPR' to 'C:/Users/abuc0046/ONEDRI~1/GitHub/DNPR~1.RCH/DNPR', reason 'Adgang nægtet'
+ERROR:    moving to final location failed
+* removing 'C:/Users/abuc0046/ONEDRI~1/GitHub/DNPR~1.RCH/DNPR'
