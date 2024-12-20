@@ -1,6 +1,6 @@
 # Working with data from the Danish National Patient Registry (DNPR)
 
-We provide functions for visualisation of, e.g., Rasch item fit and DIF using a Conditional Item Characteristic Curve (CICC). 
+We provide functions for categorizing patient types in DNPR3 and computing contact duration. 
 
 ## Installation
 
