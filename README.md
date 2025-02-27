@@ -27,3 +27,7 @@ library(DNPR)
 ```
 
 And you are ready to go!
+
+## References
+
+Buchardt, A. S., Madsen, P. V., & Jensen, A. (2025). Data-Driven Algorithms for Classification of In- and Outpatients in the Danish National Patient Register. *Clinical epidemiology, 17,* 147–163. <https://doi.org/10.2147/CLEP.S500800>.

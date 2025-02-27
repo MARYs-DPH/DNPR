@@ -14,7 +14,9 @@
 #'   Possible values are \code{method = "cluster"} (default) or \code{method = "hybrid"}.
 #'
 #' @return Data set with added patient type variable
-#'
+#' @references Buchardt, A. S., Madsen, P. V., & Jensen, A. (2025)
+#' \emph{Data-Driven Algorithms for Classification of In- and Outpatients in the Danish National Patient Register, Clinical epidemiology, Vol. 17, 147–163},
+#' \doi{10.2147/CLEP.S500800}.
 #' @examples
 #' # example code
 #' # Using example data from package
