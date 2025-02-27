@@ -73,7 +73,7 @@ patient.type <- function(dataset, method = c("cluster", "hybrid")) {
   }
   if (!("overnight" %in% datavars)) {
     if (!is_polars_available) {
-      dataset$overnight <- as.numeric(dataset$dato_start == dataset$dato_slut)
+      dataset$overnight <- as.numeric(dataset$dato_start != dataset$dato_slut)
     } else {
       dataset <- as_polars_df(dataset)$
         with_columns(overnight = pl$

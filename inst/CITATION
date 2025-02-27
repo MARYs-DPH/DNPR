@@ -1,0 +1,10 @@
+bibentry(
+  bibtype  = "Article",
+  title    = "Data-Driven Algorithms for Classification of In- and Outpatients in the Danish National Patient Register",
+  author   = "Buchardt, A. S., Madsen, P. V., & Jensen, A.",
+  journal  = "Clinical epidemiology",
+  year     = "2025",
+  volume   = "17",
+  pages    = "147--163",
+  doi      = "10.2147/CLEP.S500800"
+)
